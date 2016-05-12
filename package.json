@@ -1,0 +1,18 @@
+{
+  "name": "crash-course-express",
+  "version": "1.0.0",
+  "description": "crash course express template",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "jemiloii",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mocha": "^2.4.5",
+    "multer": "^1.1.0",
+    "request": "^2.72.0"
+  }
+}
